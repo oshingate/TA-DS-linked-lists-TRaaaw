@@ -20,6 +20,16 @@ step-5: After repeating all the above steps you will get a sorted array
 
 <!-- You answer -->
 
+#### merge sort
+
+step1:- in this step first we have to divide array into half.once done then we have to divide each array into half again.
+
+step2:- this we have to continue till we get each item in the different array.
+
+step3:- now we have to start merging two element into single array but in arranged way.
+
+step4:- we have to continue this step till we will get one sorted array.
+
 2. Create a function named `mergeSort` that accepts an array of numbers and returns the array with sorted values. The elements should be in ascending order. Use the bubble sorting algorithms. After writing the function test it with an array and check if you are getting the right output.
 
 ```js
